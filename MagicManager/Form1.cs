@@ -22,12 +22,10 @@ namespace MagicManager
 
         private void setListBox_SelectedIndexChanged(object sender, EventArgs e)
         {
-
         }
 
         private void cardListbox_SelectedIndexChanged(object sender, EventArgs e)
         {
-
         }
     }
 }
